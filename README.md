@@ -10,7 +10,7 @@ Build with React.js
 
 ## Live Demo 🌐
 
-**You Can See The `Tracker` Live On:** [Here](https://631ff56a864aab43ed6409f6--dainty-monstera-436d09.netlify.app/)
+**You Can See The `Tracker` Live On:** [Here](https://main--dainty-monstera-436d09.netlify.app/)
 
 ## :rocket: Technologies used:
 
